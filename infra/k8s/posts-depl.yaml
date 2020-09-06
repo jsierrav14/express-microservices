@@ -14,7 +14,7 @@ spec:
      spec:
        containers:
           - name: posts
-            image: jesv/posts:latest
+            image: 091994/posts:latest
             imagePullPolicy: Never
          
 ---

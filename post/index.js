@@ -29,7 +29,7 @@ app.post('/posts', async (req, res) => {
 
         res.status(201).send(posts[id])
     } catch (error) {
-     //∫   res.status(500).send(error)
+       res.status(500).send(error)
     }
 
 })
