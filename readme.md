@@ -1,1 +1,1 @@
-This is basic implementation of microservice using express
+This is basic implementation of microservices using express
